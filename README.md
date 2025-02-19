@@ -1,2 +1,2 @@
-# NFS_configuration
-THIS repo  contains steps nfs configuration on red hat linux
+# NFS-Server-RedHat-Linux
+NFS server configuration in Linux server!
